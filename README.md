@@ -1,11 +1,9 @@
-# Hacktoberfest2022NewRepo
+# Hacktoberfest2022Simon
 Repository for Hacktoberfest2022
 
 Use this project to make your first contribution to an open source project on GitHub.
 
 ## How to contribute to this project
-
-* Add your name to the 'CONTRIBUTORS.md' file
     
 * Add a simple script to say your favorite color in any language in script folder, filename in the format of yourname_favoritecolor.xx
 
